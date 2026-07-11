@@ -82,7 +82,8 @@ Advanced-drone-control/
 
 ## 📚 Internship
 
-Developed as part of the **India Space Lab Internship**.
+Developed as part of the **India Space Lab Internship 
+BY - DRDO **.
 
 ---
 
